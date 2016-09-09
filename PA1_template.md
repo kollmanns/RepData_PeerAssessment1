@@ -145,7 +145,7 @@ The mean is still the same whereas the median differs slightly compared to the f
 ## Are there differences in activity patterns between weekdays and weekends?
 *For this part the weekdays() function may be of some help here. Use the dataset with the filled-in missing values for this part.*
 
-*1. Create a new factor variable in the dataset with two levels â âweekdayâ and âweekendâ indicating whether a given date is a weekday or weekend day.*
+*1. Create a new factor variable in the dataset with two levels "weekday" and "weekend"" indicating whether a given date is a weekday or weekend day.*
 
 ```r
 # saving old locale
